@@ -315,7 +315,15 @@
             font-size: 17px;
         }
 
-        
+        footer .line1{
+            flex-direction: column;
+        }
+
+        footer .address{
+            width: 95%;
+            margin-bottom: 20px;
+        }
+
 
         }
 
